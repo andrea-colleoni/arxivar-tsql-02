@@ -1,0 +1,5 @@
+select *
+from INFORMATION_SCHEMA.TABLES
+
+select *
+from INFORMATION_SCHEMA.COLUMNS
