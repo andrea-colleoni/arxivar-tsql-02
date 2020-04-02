@@ -1,2 +1,34 @@
-# andrea-colleoni
-arxivar-tsql-02
+# Arxivar: Corso di programmazione SQL Server avanzato
+
+
+- Programmazione T-SQL avanzata
+  - Descrivere l’architettura di base e concetti di Microsoft SQL Server
+  - Comprendere le somiglianze e le differenze tra Transact- SQL e altri linguaggi di programmazione
+  - Conoscere le funzioni built-in di T-SQL
+  - Conoscere le funzioni avanzate di interrogazione con T-SQL: CTE, window functions, funzioni di raggruppamento
+  - Saper gestire gli errori in un programma T-SQL
+  - Implementare transazioni in programmi T-SQL
+  - Uso di viste, procedure e funzioni
+  - Uso dei trigger
+- Gestione della sicurezza in Microsoft SQL Server
+  - Modello di sicurezza di SQL Server
+  - Creazione di utenti in SQL Server
+  - Mapping degli utenti
+  - Permessi
+  - Securables
+  - Data Control Language
+  - Uso di schemi e sinonimi
+- Gestione delle performance di programmi T-SQL
+  - Concetti generali sugli indici
+  - Creazione di indici con T-SQL
+  - Viste indicizzate
+  - Studio dei piani di esecuzione di query T-SQL
+  - Uso del profiler
+- Manutenzione del database
+  - Come funzione un RDMBS orientato alle transazioni
+  - Il transaction log e la tipologia di database
+  - Tipi di backup
+  - Strategie di backup
+  - Recovery e restore
+  - Manutenzione degli indici e delle statistiche
+  - Automazione della manutenzione del database
